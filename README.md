@@ -1,3 +1,2 @@
 # Python
-Aquí encontrarás algunos de mis proyecto rápidos de Python
-
+Here we have some solved problems in Python
